@@ -7,4 +7,4 @@ model:
     store: s3h://s3local
   mutability: mutable
   name: model-ex
-  version: 1
+  version: 2

@@ -7,4 +7,4 @@ dataset:
     store: s3h://s3local
   mutability: mutable
   name: dataset-ex
-  version: 1
+  version: 2

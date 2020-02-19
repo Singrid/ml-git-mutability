@@ -7,4 +7,4 @@ labels:
     store: s3h://s3local
   mutability: flexible
   name: labels-ex
-  version: 2
+  version: 3
